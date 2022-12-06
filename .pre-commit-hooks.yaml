@@ -1,0 +1,6 @@
+-   id: limit-blank-lines
+    name: limit blank lines
+    description: removes superfluous blank lines.
+    entry: limit-blank-lines
+    language: python
+    types: [text]
