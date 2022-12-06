@@ -4,7 +4,7 @@ Hooks for [pre-commit](http://pre-commit.com).
 
 ```yaml
 - repo: https://github.com/pezcode/pre-commit-hooks
-  rev: v1.0.0
+  rev: v1.0.1
   hooks:
     - id: limit-blank-lines
       args: [--max-blank-lines, '2']  # defaults to: 1
